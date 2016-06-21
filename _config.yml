@@ -1,0 +1,28 @@
+name: anirbanchatterjee
+favicon: null
+layout_spectrum: 0.6106323227286339
+typography_spectrum: 0.7643584520556033
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2769985890481621
+  lightness: 0.3904338823631406
+  saturation: 0.46844986150972545
+  rhythmicContrast: 0.1675967164337635
+purpose: []
