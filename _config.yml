@@ -1,6 +1,6 @@
 name: anirbanchatterjee
 favicon: null
-layout_spectrum: 0.6106323227286339
+layout_spectrum: 0.7531
 typography_spectrum: 0.7643584520556033
 title: anirban chatterjee photography
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.2769985890481621
-  lightness: 0.3904338823631406
-  saturation: 0.46844986150972545
-  rhythmicContrast: 0.1675967164337635
+    - '#000000'
+    - '#fdfdfd'
+    - '#53504c'
+    - '#a8a7ae'
+    - '#807c7a'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
